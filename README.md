@@ -4,7 +4,7 @@ La Gestion des Concours Internes est une application Java Swing conçue pour sim
 Contexte
 Dans le cadre de l'organisation des concours académiques ou professionnels, il est essentiel de disposer d'un outil efficace pour gérer les inscriptions, suivre les performances des participants et produire des rapports. Cet outil permettra de centraliser les informations, réduisant ainsi les erreurs et facilitant l'accès aux données nécessaires.
 Problématique
-Actuellement, la gestion des concours est souvent réalisée de manière manuelle ou avec des outils disparates, ce qui entraîne des difficultés dans la gestion des données, la communication entre les organisateurs et les participants, ainsi que la production de rapports précis et fiables.
+Actuellement, la gestion des concours est souvent réalisée de manière manuelle ou avec des outils disparates, ce qui entraîne des difficulté dans la gestion des données, la communication entre les organisateurs et les participants, ainsi que la production de rapports précis et fiables.
 Objectifs
 Centraliser les informations : Regrouper toutes les données relatives aux concours, aux participants et aux résultats dans une base de données unique.
 Faciliter la gestion : Offrir une interface conviviale pour la création de concours, l'enregistrement des participations et la gestion des résultats.
